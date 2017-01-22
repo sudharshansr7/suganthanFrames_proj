@@ -26,7 +26,7 @@
             </div>
         </div>
 
-        <div class="container-fluid">
+        <!--<div class="container-fluid">
             <div class="row">
                 <div class="container-fluid" style="padding-top: 60px">
                 <div class="col-md-2">
@@ -39,9 +39,17 @@
                         </p>
                     </div>
                 </div>
+                </div>-->
+
+                <div class="col-md-4" style="padding-top: 60px">
+                    <div class="thumbnail text-center">
+                        <h1>Filters</h1>
+                        <p>Basic Frame selection</p>
+                        <a href="#" class="btn btn-success" role="button">Set Filter</a>
+                    </div>                    
                 </div>
 
-                <div class="container">
+                <div class="container col-md-8">
                     <?php
 
                     for ( $x = 0; $x < 2; $x++){
