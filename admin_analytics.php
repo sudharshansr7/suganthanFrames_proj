@@ -48,27 +48,27 @@
 			</div>
 			<nav>
 				<ul>
-					<li class="active">
-						<a href="#">
+					<li>
+						<a href="admin_users.php">
 							<span><i class="fa fa-user"></i></span>
 							<span>Users</span>
 						</a>
 					</li>
 					<li>
-						<a href="#">
+						<a href="admin_messages.php">
 
 							<span><i class="fa fa-envelope"></i></span>
 							<span>Messages</span>
 						</a>
 					</li>
-					<li>
-						<a href="#">
+					<li class="active">
+						<a href="admin_analytics.php">
 							<span><i class="fa fa-bar-chart"></i></span>
 							<span>Analytics</span>
 						</a>
 					</li>
 					<li>
-						<a href="#">
+						<a href="admin_payments.php">
 							<span><i class="fa fa-credit-card-alt"></i></span>
 							<span>Payments</span>
 						</a>
@@ -79,7 +79,7 @@
         
 
         <div class="main-content">
-            Admin panel will display all the information regarding the website.            
+            Admin panel will display all the information regarding the website. Analytics panel.            
         </div>
         
 
